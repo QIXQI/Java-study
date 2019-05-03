@@ -1,2 +1,2 @@
 # Java-study
-study Java
+马上小学期了，慌的一批，不能再像去年小学期学习Qt那样放飞自我了，循序渐进地学习Java
